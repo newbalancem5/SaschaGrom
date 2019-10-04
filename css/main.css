@@ -3,6 +3,9 @@
 .TitleTop{
     text-align: center;
 }
+.titlemain{
+  font-size: 18px;
+}
 .file{ 
     margin-top: 20%;
 }
