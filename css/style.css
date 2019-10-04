@@ -1,0 +1,51 @@
+.show-neighbors {
+  overflow: hidden;
+}
+
+.show-neighbors .carousel-indicators {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+.show-neighbors .carousel-control-prev,
+.show-neighbors .carousel-control-next {
+  width: 10%;
+  z-index: 11;
+}
+
+.show-neighbors .carousel-inner {
+  width: 240%;
+  left: -70%;
+}
+
+.show-neighbors .carousel-item-next:not(.carousel-item-left),
+.show-neighbors .carousel-item-right.active {
+  -webkit-transform: translate3d(33%, 0, 0);
+  transform: translate3d(33%, 0, 0);
+}
+
+.show-neighbors .carousel-item-prev:not(.carousel-item-right),
+.show-neighbors .carousel-item-left.active {
+  -webkit-transform: translate3d(-33%, 0, 0);
+  transform: translate3d(-33%, 0, 0);
+}
+
+.show-neighbors .item__third {
+  float: left;
+  position: relative;
+  width: 33.33333333%;
+}
+
+.show-neighbors .item__third img {
+  border-left: 1.3rem solid #fff;
+}
+
+.carousel-nav-icon {
+  height: 48px;
+  width: 48px;
+}
+
+.carousel-nav-icon svg {
+  fill: #fff;
+}
+/*# sourceMappingURL=style.css.map */
