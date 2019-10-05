@@ -266,4 +266,10 @@ line-height: 42px;
     top: 75%;
     bottom: 44%;
   }
+  .TitleTop{
+    margin-left: 40%;
+  }
+  .titlemain{
+    font-size: 20px;
+  }
   }
