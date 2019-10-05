@@ -86,7 +86,7 @@ line-height: 42px;
     transition-duration: .25s;
   }
   .liitem{
-      margin-top: 50%;
+      margin-top: 71%;
   }
   
   .menu__item {
@@ -167,6 +167,10 @@ line-height: 42px;
     border: 0;  
     color: white;
   }
+  .file{
+    width: 450px;
+    height: 200px;
+  }
 
   /* Button */
   .acceptjobs{
@@ -205,4 +209,61 @@ line-height: 42px;
   }
   .textwatch{
     margin-top: 10%;
+  }
+  @media screen and (max-width: 1552px){
+    .liitem{
+      margin-top: 55%;
+    }
+  }
+
+  @media screen and (max-width: 490px){
+    .menu__btn {
+      display: flex;
+      align-items: center;
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      margin-top: 0%;
+      width: 26px;
+      height: 26px;
+      cursor: pointer;
+      z-index: 1;
+    }
+    .liitem{
+      margin-top: 50%;
+  }
+    .file{
+      margin-top: 80%;
+      width: 450px;
+      height: 200px;
+    }
+   
+      .fa{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    left: 135.14%;
+    right: 3.39%;
+    top: 65%;
+    bottom: 53.78%;
+}
+.vk{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    left: 135.14%;
+    right: 3.39%;
+    top: 70%;
+    bottom: 48.89%;
+
+  }
+  .inst{
+    width: 21px;
+    height: 21px;
+    position: absolute;
+    left: 135.14%;
+    right: 3.39%;
+    top: 75%;
+    bottom: 44%;
+  }
   }
