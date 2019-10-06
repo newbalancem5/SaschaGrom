@@ -234,7 +234,7 @@ line-height: 42px;
   }
     .file{
       margin-top: 80%;
-      width: 450px;
+      width: 350px;
       height: 200px;
     }
    
@@ -242,7 +242,7 @@ line-height: 42px;
     width: 21px;
     height: 21px;
     position: absolute;
-    left: 135.14%;
+    left: 93%;
     right: 3.39%;
     top: 65%;
     bottom: 53.78%;
@@ -251,7 +251,7 @@ line-height: 42px;
     width: 21px;
     height: 21px;
     position: absolute;
-    left: 135.14%;
+    left: 93%;
     right: 3.39%;
     top: 70%;
     bottom: 48.89%;
@@ -261,13 +261,13 @@ line-height: 42px;
     width: 21px;
     height: 21px;
     position: absolute;
-    left: 135.14%;
+    left: 93%;
     right: 3.39%;
     top: 75%;
     bottom: 44%;
   }
   .TitleTop{
-    margin-left: 40%;
+    margin-left: 0%;
   }
   .titlemain{
     font-size: 20px;
