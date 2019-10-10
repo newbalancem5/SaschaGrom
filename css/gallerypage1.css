@@ -219,15 +219,24 @@ color: #2E303B;
 
 .carousel-photo{
   margin-top: 0%;
-  width: 50%;
+  width: 70%;
 }
-.photoelements{
+/* .photoelements{
   width: 300px;
-  height: 400px;
+  height: 200px;
 }
 .photo{
   width: 738px;
   height: 492px;
+} */
+.photogallery{
+  
+}
+.gallery-image{
+  margin-left: 4%;
+  /* width: 100%;
+  height: 100%; */
+  margin-right: 10px;
 }
 .nameproject{
   font-family: Roboto;
