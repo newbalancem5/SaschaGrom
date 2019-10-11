@@ -203,6 +203,17 @@ color: #2E303B;
     margin-top: 55%;
   }
 }
+@media screen and (max-width: 1200px){
+  .liitem{
+    margin-top: 35%;
+  }
+}
+@media screen and (max-width: 1000px){
+  .liitem{
+    margin-top: 25%;
+  }
+}
+
 
 @media screen and (max-width: 490px){
   .menu__btn {
