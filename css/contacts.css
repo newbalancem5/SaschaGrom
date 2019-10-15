@@ -198,6 +198,9 @@ color: #2E303B;
     height: 300px;
     width: 90%;
 }
+.containermail{
+  margin-left: 15px;
+}
 @media screen and (max-width: 1552px){
   .liitem{
     margin-top: 55%;
@@ -231,6 +234,12 @@ color: #2E303B;
   .liitem{
     margin-top: 50%;
 }
+.contactscol{
+  padding-right: 0px;
+}
+.containermail{
+  padding-right: 5px
+}
     /* .fa{
   width: 21px;
   height: 21px;
@@ -262,4 +271,13 @@ color: #2E303B;
 .titlemain{
   font-size: 20px;
 }
+}
+@media screen and (max-width: 320px){
+  .containermail{
+    margin-left: 15px;
+margin-right: -15px;
+  }
+  .title{
+    font-size: 27px;
+  }
 }

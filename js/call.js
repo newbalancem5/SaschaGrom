@@ -1,0 +1,1 @@
+console.log("%cЧтобы заказать сайт обратитесь на почту newbalancem5@gmail.com или https://github.com/newbalancem5", "color: blue; font-size: x-large");
