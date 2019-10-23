@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
 
-
-
-
-
 .TitleTop{
     text-align: center;
 }
@@ -56,7 +52,6 @@
     right: 3.39%;
     top: 48.78%;
     bottom: 48.89%;
-
   }
   .inst{
     width: 21px;
@@ -67,11 +62,6 @@
     top: 53.67%;
     bottom: 44%;
   }
-
-  /* im */
-
-  /* imend */
-
 /* Menu */
 #menu__toggle {
   opacity: 0;
@@ -131,16 +121,12 @@
   visibility: hidden;
   top: 0;
   left: -100%;
-
   width: 540px;
   height: 100%;
-
   margin: 0;
   padding-left: 60px ;
-
   list-style: none;
   background-color: #ECEFF1;
-
   transition-duration: .25s;
 }
 .liitem{
@@ -150,9 +136,7 @@
 .menu__item {
   display: block;
   /* padding: 12px 60px; */
-  
   color: #D3D3D6;
-
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
@@ -161,9 +145,7 @@
   display: flex;
   align-items: center;
   text-transform: uppercase;
-
   text-decoration: none;
-
   transition-duration: .25s;
 }
 .menu__item:hover {
@@ -219,14 +201,6 @@ color: #2E303B;
   margin-top: 0%;
   width: 70%;
 }
-/* .photoelements{
-  width: 300px;
-  height: 200px;
-}
-.photo{
-  width: 738px;
-  height: 492px;
-} */
 .photogallery{
   width: 700px;
   margin-right: 10px;
@@ -290,34 +264,6 @@ color: #2E303B;
   .liitem{
     margin-top: 50%;
 }
-    /* .fa{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 65%;
-  bottom: 53.78%;
-}
-.vk{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 70%;
-  bottom: 48.89%;
-
-}
-.inst{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 75%;
-  bottom: 44%;
-} */
 .titlemain{
   font-size: 20px;
 }

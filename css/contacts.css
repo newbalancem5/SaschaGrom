@@ -113,13 +113,10 @@
   visibility: hidden;
   top: 0;
   left: -100%;
-
   width: 540px;
   height: 100%;
-
   margin: 0;
   padding-left: 60px ;
-
   list-style: none;
   background-color: #ECEFF1;
 
@@ -143,9 +140,7 @@
   display: flex;
   align-items: center;
   text-transform: uppercase;
-
   text-decoration: none;
-
   transition-duration: .25s;
 }
 .menu__item:hover {
@@ -240,34 +235,6 @@ color: #2E303B;
 .containermail{
   padding-right: 5px
 }
-    /* .fa{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 65%;
-  bottom: 53.78%;
-}
-.vk{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 70%;
-  bottom: 48.89%;
-
-}
-.inst{
-  width: 21px;
-  height: 21px;
-  position: absolute;
-  left: 135.14%;
-  right: 3.39%;
-  top: 75%;
-  bottom: 44%;
-} */
 .titlemain{
   font-size: 20px;
 }
