@@ -232,10 +232,25 @@ color: #2E303B;
   width: 100%;
   height: 90%;
 }
+.nextpage{
+  color: #D3D3D6;
+  text-align: center;
+  margin-left: 50%;
+  text-decoration: none;
+  padding-top: 150px;
+  
+}
+.nextpage:hover{
+  color: #2E303B;
+  text-decoration: none;
+}
+span {
+  content: "\2192";
+}
 
 @media screen and (max-width: 1600px){
   .liitem{
-    margin-top: 55%;
+    margin-top: 50%;
   }
 }
 @media screen and (max-width: 1200px){
@@ -263,6 +278,14 @@ color: #2E303B;
   }
   .liitem{
     margin-top: 50%;
+}
+.nextpage{
+  padding-left: 40%;
+  margin-left: 0;
+}
+.next{
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
 .titlemain{
   font-size: 20px;
