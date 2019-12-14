@@ -133,6 +133,30 @@
 .liitem{
     margin-top: 66%;
 }
+.menu__language{
+  display: block;
+  /* padding: 12px 60px; */
+  
+  color: #D3D3D6;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 51px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+
+  text-decoration: none;
+
+  transition-duration: .25s;
+}
+.menu__language:hover {
+  background-color: none;
+  text-decoration: none;
+  color : #2E303B;
+}
 
 .menu__item {
   display: block;
