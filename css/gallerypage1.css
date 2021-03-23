@@ -10,6 +10,9 @@
 .titleinfo{
   margin-left: 5%;
 }
+.imageheight{
+  height: 535px;
+}
 .block{
     width: 500px;
     height: 200px;
@@ -324,4 +327,32 @@ span {
   margin-top: 0%;
   width:100%;
 }
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.xpandable-block {
+  height: 120px;
+  overflow: hidden;
+  order: 0;
+}
+.xpand-button {
+  order: 1;
+}
+input[type="checkbox"] {
+ display: none;
+}
+input[type="checkbox"]:checked + .xpandable-block {
+  height: auto;
+}
+label {
+  order: 1;
+  color: black;
+  /* text-decoration: underline; */
+  font-size: 18px;
+  cursor: pointer;
 }
