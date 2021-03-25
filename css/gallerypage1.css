@@ -234,10 +234,10 @@
   margin-right: 10px;
 }
 .photogallery1 {
-  
-  height: 600px;
-  /* width: 50/2; */
+  width: 310px;
+  /* height: 500px; */
   margin-right: 10px;
+
 }
 .textphoto {
   text-align: center;
@@ -326,6 +326,12 @@ span {
     width: 350px;
     margin-right: 10px;
   }
+  .photogallery1 {
+    width: 360px;
+   margin-right: 10px;
+   /* margin-left: auto;*/
+   
+ }
   .carousel-photo {
     margin-top: 0%;
     width: 100%;
