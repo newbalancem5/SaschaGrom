@@ -229,15 +229,22 @@
   margin-top: 0%;
   width: 70%;
 }
-.photogallery {
+.photogallery_textilealand {
+  width: 650px;
+  margin-right: 10px;
+}
+.photogallery{
   width: 700px;
   margin-right: 10px;
 }
 .photogallery1 {
-  width: 310px;
+  width: 290px;
   /* height: 500px; */
   margin-right: 10px;
-
+}
+.photoinfo{
+  width: 310px;
+  text-align: center;
 }
 .textphoto {
   text-align: center;
