@@ -230,7 +230,7 @@
   width: 70%;
 }
 .photogallery_textilealand {
-  width: 650px;
+  width: 700px;
   margin-right: 10px;
 }
 .photogallery{
@@ -330,15 +330,27 @@ span {
   }
 
   .photogallery {
-    width: 350px;
-    margin-right: 10px;
+    width: 320px;
+    margin-right: 5px;
+  }
+  .photoinfo{
+    width: 320px;
   }
   .photogallery1 {
     width: 360px;
-   margin-right: 10px;
+   margin-right: 5px;
    /* margin-left: auto;*/
    
  }
+ .photogallery_textilealand {
+  width: 320px;
+  margin-right: 10px;
+}
+ .projectwidth {
+  width: 100%;
+  padding-left: 3%;
+  padding-right: 1%;
+}
   .carousel-photo {
     margin-top: 0%;
     width: 100%;
